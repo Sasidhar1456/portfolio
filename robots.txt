@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://sasidhar1456.github.io/sitemap.xml
+Sitemap: https://sasidhar1456.github.io/portfolio/sitemap.xml
